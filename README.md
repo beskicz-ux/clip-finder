@@ -4,20 +4,23 @@ Finds the best moments in long YouTube compilations, scores every moment for
 your niche, and hands you each one as a ready clip for your Shorts — the best
 part or the whole moment, original shape or 9:16.
 
-**[⬇ Download Clip Finder for Windows](https://github.com/beskicz-ux/clip-finder/releases/latest/download/Clip-Finder-Windows.zip)**
+**[⬇ Download Clip Finder for Windows](https://github.com/beskicz-ux/clip-finder/releases/latest/download/Clip-Finder-Setup.exe)**
 
 This page only hosts the download. The app needs a licence key to run —
 get one (7 days free on Creator) from **[1 Hour Channel on Whop](https://whop.com/1hourchannel/)**.
 
 ## Install
 
-1. Download the zip above (about 100 MB) and unzip it anywhere — right-click →
-   *Extract All*.
-2. Open the `Clip Finder` folder and run **Clip Finder.exe**.
+1. Download **Clip-Finder-Setup.exe** above (about 76 MB) and run it.
    Windows may say *"Windows protected your PC"* the first time, because the
    app is new and not yet signed: click **More info → Run anyway**.
-3. Paste your licence key from Whop (the **Software** app in your Whop
-   membership) and press **Activate**.
+2. Click through the installer — no administrator password needed. It adds
+   Clip Finder to your Start menu (and your Desktop, if you tick the box).
+3. Open Clip Finder, paste your licence key from Whop (the **Software** app in
+   your Whop membership) and press **Activate**.
+
+To uninstall: Windows Settings → Apps → Clip Finder. Your exported clips in
+`Videos\Clip Finder` are kept.
 
 Windows 10 or 11, 64-bit. No GPU needed. Scoring is included in every plan —
 there is nothing else to set up.
@@ -48,12 +51,13 @@ Monday. Manage or upgrade your plan on Whop.
 
 - **"This key is already in use on another computer"** — each key works on one
   PC. Message support from your Whop membership to move it.
-- **Something fails** — run `Clip Finder.exe --selfcheck` from the folder; it
+- **Something fails** — open Command Prompt and run
+  `"%LOCALAPPDATA%\Programs\Clip Finder\Clip Finder.exe" --selfcheck`; it
   writes `selfcheck.txt` into `%LOCALAPPDATA%\Clip Finder\logs`. Send that file
   to support on Whop.
 - **Searches or downloads suddenly stop working** — YouTube changed
-  something. Download the latest version from this page; your clips and
-  settings are kept.
+  something. Download and run the latest installer from this page; your
+  clips and settings are kept.
 
 The clips come from other people's videos. What you post is your
 responsibility — check each clip's rights and YouTube's reused-content rules.
