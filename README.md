@@ -1,17 +1,18 @@
 # Clip Finder
 
-Finds the best moments in long YouTube compilations, scores every moment for
-your niche, and hands you each one as a ready clip for your Shorts — the best
-part or the whole moment, original shape or 9:16.
+Finds the best **road-rage moments** — motorcycle helmet-cam or car dashcam —
+in YouTube compilations nobody else has taken, scores every scene out of 10,
+and hands you each one as a **vertical 9:16 clip** ready for your Shorts.
+Full scenes, 12 seconds to 2 minutes, so you can make your own cuts.
 
 **[⬇ Download Clip Finder for Windows](https://github.com/beskicz-ux/clip-finder/releases/latest/download/Clip-Finder-Setup.exe)**
 
-This page only hosts the download. The app needs a licence key to run —
-get one (7 days free on Creator) from **[1 Hour Channel on Whop](https://whop.com/1hourchannel/)**.
+This page only hosts the download. The app needs a licence key — get one
+(7 days free on Creator) from **[1 Hour Channel on Whop](https://whop.com/1hourchannel/)**.
 
 ## Install
 
-1. Download **Clip-Finder-Setup.exe** above (about 76 MB) and run it.
+1. Download **Clip-Finder-Setup.exe** above (about 80 MB) and run it.
    Windows may say *"Windows protected your PC"* the first time, because the
    app is new and not yet signed: click **More info → Run anyway**.
 2. Click through the installer — no administrator password needed. It adds
@@ -19,33 +20,32 @@ get one (7 days free on Creator) from **[1 Hour Channel on Whop](https://whop.co
 3. Open Clip Finder, paste your licence key from Whop (the **Software** app in
    your Whop membership) and press **Activate**.
 
-To uninstall: Windows Settings → Apps → Clip Finder. Your exported clips in
-`Videos\Clip Finder` are kept.
-
-Windows 10 or 11, 64-bit. No GPU needed. Scoring is included in every plan —
-there is nothing else to set up.
+Windows 10 or 11, 64-bit. No GPU needed. Scoring is included in every plan.
+To uninstall: Windows Settings → Apps → Clip Finder (your saved clips stay).
 
 ## Using it
 
-1. **Find** — type your niche in one line (e.g. *Roblox funny moments*) and
-   press **Find clips**. It picks the searches, downloads the best
-   compilations and scores every moment. The first run takes a few minutes.
-2. **Clips** — your top picks, each with a score, a summary and a hook line.
-   Choose *Best part* or *Whole moment*, *Original* or *9:16*, and press
-   **Export**.
-3. Exported clips are in `Videos\Clip Finder`.
+1. Press **Find clips**. It searches YouTube, downloads two compilations
+   nobody else has taken, cuts them into scenes and scores every one. Takes a
+   few minutes.
+2. Click any clip to **preview** it — free, as many times as you like.
+3. Press **Download** on the ones you want. Each is saved as a 1080×1920
+   vertical clip in `Videos\Clip Finder`.
+
+In Settings (the gear) you can switch between motorcycle and dashcam footage,
+change the searches, and add your competitors' channels.
 
 ## Plans
 
-| Plan | Compilations a week | Clips a week |
+| Plan | Finds a week | Downloads a week |
 |---|---|---|
-| Starter | 3 | 5 |
-| Creator (7 days free) | 8 | 15 |
-| Studio | 25 | 50 |
+| Starter | 1 | 3 |
+| Creator (7 days free) | 3 | 10 |
+| Studio | 10 | 20 |
 
-A compilation is one long video downloaded, cut into moments and scored. A
-clip is one export; exporting the same clip again is free. Limits reset every
-Monday. Manage or upgrade your plan on Whop.
+A **find** is one press of Find clips (two compilations, usually 10+ clips).
+A **download** saves one clip; downloading the same clip again is free.
+Everything resets every Monday. Manage or upgrade your plan on Whop.
 
 ## Help
 
